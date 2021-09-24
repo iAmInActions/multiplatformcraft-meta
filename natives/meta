@@ -1,0 +1,2 @@
+native_arches['i386', 'i586', 'i686', 'amd64', 'armv7l', 'aarch64', 'ppc', 'ppc64']
+native_version['2', '2', '2', 'both', 'both', 'both', '2', '3']
